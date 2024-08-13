@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "352373217860",
+    "project_id": "grow-life-8ae8c",
+    "storage_bucket": "grow-life-8ae8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352373217860:android:bce2934203ba0c97e1fa11",
+        "android_client_info": {
+          "package_name": "com.growlife.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbd3-1-ZKilnaFDMyTLxSou2D5AT1yxVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

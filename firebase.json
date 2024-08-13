@@ -1,0 +1,25 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "grow-life-8ae8c",
+                    "appId": "1:352373217860:android:bce2934203ba0c97e1fa11",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "grow-life-8ae8c",
+                    "configurations": {
+                        "android": "1:352373217860:android:bce2934203ba0c97e1fa11",
+                        "ios": "1:352373217860:ios:149f927e50c2d70ee1fa11",
+                        "macos": "1:352373217860:ios:149f927e50c2d70ee1fa11",
+                        "web": "1:352373217860:web:f3eb92e2c2d07433e1fa11",
+                        "windows": "1:352373217860:web:8fa6f172e68e544ee1fa11"
+                    }
+                }
+            }
+        }
+    }
+}
